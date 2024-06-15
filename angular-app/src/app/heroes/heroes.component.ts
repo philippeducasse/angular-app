@@ -16,6 +16,6 @@ import { Hero } from '../hero'; // import the hero interface
 export class HeroesComponent {
   hero: Hero = {
     id: 1,
-    name: 'Windstorm',
+    name: 'Brainstorm',
   };
 }
